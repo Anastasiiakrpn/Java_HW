@@ -35,7 +35,6 @@ public class Solution {
         printArray(nums2);
     }
 
-    // Метод для печати массива
     public static void printArray(int[] arr) {
         for (int num : arr) {
             System.out.print(num + " ");
